@@ -1,4 +1,5 @@
-﻿Console.ForegroundColor =ConsoleColor.Magenta;
+﻿Console.BackgroundColor =ConsoleColor.Blue;
+Console.ForegroundColor =ConsoleColor.Magenta;
 Console.WriteLine("Faded-Alan Walker");
 Console.ResetColor();
 Console.WriteLine();
